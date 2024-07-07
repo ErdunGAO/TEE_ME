@@ -1,0 +1,25 @@
+n_epochs: 2000
+
+simulation:
+    lr: 0.001
+
+ihdp:
+    lr: 0.01
+
+news:
+    lr: 0.0005
+
+simu_s1:
+    lr: 0.001
+
+simu_s2:
+    lr: 0.001
+
+tcga:
+    lr: 0.0001
+
+news_add:
+    lr: 0.001
+
+ihdp_add:
+    lr: 0.001
